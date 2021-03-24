@@ -34,7 +34,7 @@ class ContactPage extends Component {
           </div>
           <div className="contact-grid-item">steven@datab.ae</div>
           <div className="contact-grid-item">(540) DATA-BAE</div>
-          <div className="contact-grid-item">@CraftyCo</div>
+          <div className="contact-grid-item">@databaewoodhsop</div>
         </div>
       </Layout>
     )
