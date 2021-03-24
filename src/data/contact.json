@@ -5,9 +5,18 @@
         "text": "We would love to build or repair something for you. Get in touch.",
         "email": "steven@datab.ae",
         "phone": "(540) DATA-BAE",
-        "twitter": "@CraftyCo",
+        "twitter": "@databaewoodshop",
         "email_icon": "images/email.svg",
         "phone_icon": "images/phone.svg",
         "twitter_icon": "images/twitter.svg"
+    },
+    {
+        "__comments": "lorem-ipsum",
+        "title": "lorem-ipsum",
+        "description": "lorem-ipsum",
+        "text": "lorem-ipsum",
+        "email": "lorem-ipsum",
+        "phone": "lorem-ipsum",
+        "twitter": "lorem-ipsum"
     }
 ]
