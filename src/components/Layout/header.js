@@ -54,7 +54,7 @@ class Header extends Component {
           </button>
         </Link>
         <Link to="/">
-          <img src={logo} alt="Crafty Logo" className="logo"></img>
+          <img src={logo} alt="databae logo" className="logo"></img>
         </Link>
         <Link to="/about">
           <button className={page === "about" ? "button-active" : "button"}>
