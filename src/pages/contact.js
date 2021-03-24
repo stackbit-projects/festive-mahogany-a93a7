@@ -32,8 +32,8 @@ class ContactPage extends Component {
               className="contact-icon"
             ></img>
           </div>
-          <div className="contact-grid-item">steven</div>
-          <div className="contact-grid-item">1-xxx-xxx-xx67</div>
+          <div className="contact-grid-item">steven@datab.ae</div>
+          <div className="contact-grid-item">(67</div>
           <div className="contact-grid-item">@CraftyCo</div>
         </div>
       </Layout>
