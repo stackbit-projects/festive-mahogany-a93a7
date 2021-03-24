@@ -37,7 +37,7 @@ class Header extends Component {
             <button className="sidebar-item">ABOUT</button>
           </Link>
           <Link to="/contact" className="sidebar-link">
-            <button className="sidebar-item">CONTACT</button>
+            <button className="sidebar-item">MERCH</button>
           </Link>
           <Link to="/contact" className="sidebar-link">
             <button className="sidebar-item">CONTACT</button>
