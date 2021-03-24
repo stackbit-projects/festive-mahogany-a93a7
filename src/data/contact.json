@@ -9,14 +9,5 @@
         "email_icon": "images/email.svg",
         "phone_icon": "images/phone.svg",
         "twitter_icon": "images/twitter.svg"
-    },
-    {
-        "__comments": "lorem-ipsum",
-        "title": "lorem-ipsum",
-        "description": "lorem-ipsum",
-        "text": "lorem-ipsum",
-        "email": "lorem-ipsum",
-        "phone": "lorem-ipsum",
-        "twitter": "lorem-ipsum"
     }
 ]
