@@ -34,7 +34,7 @@ class Header extends Component {
             <button className="sidebar-item">WORK</button>
           </Link>
           <Link to="/about" className="sidebar-link">
-            <button className="sidebar-item">ABOUT</button>
+            <button classNameCrafty Logo="sidebar-item">ABOUT</button>
           </Link>
           <Link to="https:merch.datab.ae" className="sidebar-link">
             <button className="sidebar-item">MERCH</button>
